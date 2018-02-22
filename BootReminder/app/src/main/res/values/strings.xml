@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Boot Reminder</string>
+    <string name="info_string">You will receive a notification every time you reboot!</string>
+</resources>
